@@ -1,5 +1,8 @@
 # UI-UX-Experiment5
 
+NAME : SAHMRIN B
+
+REG.NO :212224040306
 ## Aim:
 
 Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce
