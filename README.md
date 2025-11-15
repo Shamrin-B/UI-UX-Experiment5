@@ -45,6 +45,13 @@ Motivation
 
 
 
+<img width="1855" height="916" alt="image" src="https://github.com/user-attachments/assets/ad7629c7-bd0b-4e0f-a9a4-06ee7b0d78b4" />
+
+
+
+
+<img width="1856" height="914" alt="Screenshot 2025-11-15 140632" src="https://github.com/user-attachments/assets/c3eb8a87-1237-43c8-9bd2-dddc5ca1a4ef" />
+
 
 
 ## Result:
